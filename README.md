@@ -258,6 +258,6 @@ python evaluate.py
 - 🔍 Runs inference using trained model
 - 📊 Computes accuracy, precision, recall, and F1-score
 
-# Output:
+#### Output:
 Printed evaluation metrics
 
