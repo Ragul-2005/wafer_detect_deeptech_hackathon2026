@@ -226,5 +226,38 @@ cd wafer-defect-classification
 
 # Install required dependencies
 pip install -r requirements.txt
+```
 
+## 1️⃣ Train the Model
+```
+python train.py
+```
+
+
+### What it does:
+- 📥 Loads and preprocesses grayscale SEM images
+- 🧠 Trains MobileNetV2 using transfer learning
+- 📊 Monitors validation performance
+- 💾 Saves the best model checkpoint
+
+Output:
+```
+mobilenet_v2_wafer.pth
+```
+---
+
+## 2️⃣ Evaluate on Test Set
+
+```
+python evaluate.py
+```
+
+
+### What it does:
+- 🧪 Loads the held-out test dataset
+- 🔍 Runs inference using trained model
+- 📊 Computes accuracy, precision, recall, and F1-score
+
+# Output:
+Printed evaluation metrics
 
