@@ -205,3 +205,26 @@ The MobileNetV2-based defect classification model was quantitatively evaluated o
 
 </div>
 
+## 🎬 Demo Flow
+
+### 📋 Prerequisites
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/wafer-defect-classification.git
+cd wafer-defect-classification
+
+# Install required dependencies
+pip install -r requirements.txt
+
+### 📋 Prerequisites
+
+```bash
+# Clone the repository
+git clone [https://github.com/yourusername/wafer-defect-classification.git](https://github.com/Ragul-2005/wafer_detect_deeptech_hackathon2026.git)
+cd wafer-defect-classification
+
+# Install required dependencies
+pip install -r requirements.txt
+
+
