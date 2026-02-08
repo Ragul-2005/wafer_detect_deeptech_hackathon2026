@@ -294,3 +294,23 @@ Output:
 ```
 confusion_matrix.png
 ```
+
+---
+
+
+## 5️⃣ Export Model to ONNX
+
+```
+python export_onnx.py
+```
+
+
+### What it does:
+- 📦 Converts PyTorch model → ONNX format
+- ✅ Validates ONNX inference using ONNX Runtime
+- ⚡ Prepares model for edge deployment
+
+Output:
+```
+mobilenet_v2_wafer.onnx
+```
