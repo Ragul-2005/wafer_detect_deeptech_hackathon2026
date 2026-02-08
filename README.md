@@ -210,7 +210,6 @@ The MobileNetV2-based defect classification model was quantitatively evaluated o
 [![RPi](https://img.shields.io/badge/Raspberry-Pi-A22846?style=flat-square)](https://www.raspberrypi.org)
 [![Intel](https://img.shields.io/badge/Intel-OpenVINO-0071C5?style=flat-square)](https://www.intel.com/openvino)
 
-**Note:** This phase focuses on software-level validation. Hardware deployment and real-time benchmarking are planned for future phases.
 
 </div>
 
