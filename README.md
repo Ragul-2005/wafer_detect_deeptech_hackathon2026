@@ -23,12 +23,12 @@
 ---
 
 ## 🧪 Dataset Summary
-
-- Image Type: SEM wafer inspection images
-- Color Space: Grayscale (single-channel)
-- Input Resolution: 224 × 224
-- Classes: Clean, Bridge, Open, Crack, LER, CMP, Via\
-- Dataset Size: 1000+ images (real + synthetic)
-- Split: Train / Validation / Test + Unseen set
+- 📸 Image Type: SEM wafer inspection images
+- 🎨 Color Space: Grayscale (single-channel)
+- 📐 Input Resolution: 224 × 224
+- 🏷️ Classes: Clean, Bridge, Open, Crack, LER, CMP, Via
+- 📦 Dataset Size: 1000+ images (real + synthetic)
+- 🔀 Data Split: Train / Validation / Test + Unseen set
 
   --
+  
