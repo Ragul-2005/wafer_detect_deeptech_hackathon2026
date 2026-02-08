@@ -22,17 +22,7 @@
 
 ---
 
-## 🧪 Dataset Summary
-- 📸 Image Type: SEM wafer inspection images
-- 🎨 Color Space: Grayscale (single-channel)
-- 📐 Input Resolution: 224 × 224
-- 🏷️ Classes: Clean, Bridge, Open, Crack, LER, CMP, Via
-- 📦 Dataset Size: 1000+ images (real + synthetic)
-- 🔀 Data Split: Train / Validation / Test + Unseen set
-
- ---
-
-## 🏗️ Architecture Overview
+## 🏗️ Architecture 
 
 | 🔢 Stage | 🧩 Component | 📄 Description |
 |:--:|:--|:--|
@@ -43,4 +33,59 @@
 | 🧮 | **Classifier Head** | Fully connected layers for classification |
 | 📤 | **Output Layer** | Multi-class wafer defect prediction |
 
+---
+
+## 🧪 Dataset 
+- 📸 Image Type: SEM wafer inspection images
+- 🎨 Color Space: Grayscale (single-channel)
+- 📐 Input Resolution: 224 × 224
+- 🏷️ Classes: Clean, Bridge, Open, Crack, LER, CMP, Via
+- 📦 Dataset Size: 1000+ images (real + synthetic)
+- 🔀 Data Split: Train / Validation / Test + Unseen set
+
+ ---
+
+## 🧠 Model Architecture
+
+### 🎯 Design Choices  
+**Why MobileNetV2?**
+
+✓ ⚡ Optimized for edge and low-power devices  
+✓ 📉 Lightweight with reduced parameter count  
+✓ 🚀 Fast inference suitable for real-time inspection  
+✓ 🧠 Strong transfer learning performance on texture-based SEM images  
+✓ 📦 Seamless ONNX export for edge deployment  
+
+---
+
+### 📐 Model Specifications
+
+| 🔧 Component | 📄 Detail |
+|:--|:--|
+| 🧠 **Base Architecture** | MobileNetV2 |
+| 🔥 **Framework** | PyTorch |
+| 🎓 **Training Method** | Transfer Learning |
+| 🖼️ **Input Shape** | (1, 224, 224) – Grayscale |
+| 🏷️ **Output Classes** | 7 defect categories |
+| 📦 **Export Format** | ONNX |
+
+---
+
+### ⚙️ Training Configuration
+
+```python
+# Training Hyperparameters
+EPOCHS          = 20
+BATCH_SIZE      = 16
+OPTIMIZER       = Adam
+LEARNING_RATE   = 1e-4
+LOSS_FUNCTION   = CrossEntropyLoss
+CHECKPOINT      = Best validation accuracy
+
+# Data Processing
+INPUT_SIZE      = 224 × 224
+COLOR_MODE      = Grayscale
+NORMALIZATION   = Custom (mean=0.5, std=0.5)
+AUGMENTATION    = Train only
+```
 ---
