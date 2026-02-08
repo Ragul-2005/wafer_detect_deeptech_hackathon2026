@@ -30,4 +30,17 @@
 - 📦 Dataset Size: 1000+ images (real + synthetic)
 - 🔀 Data Split: Train / Validation / Test + Unseen set
 
- --  
+ ---
+
+## 🏗️ Architecture Overview
+
+| 🔢 Stage | 🧩 Component | 📄 Description |
+|:--:|:--|:--|
+| 📥 | **Input Layer** | Grayscale SEM wafer images *(1 × 224 × 224)* |
+| 🔄 | **Preprocessing** | Resize, normalization, tensor conversion |
+| 🧠 | **Backbone Network** | MobileNetV2 with transfer learning |
+| 🔍 | **Feature Extraction** | Depthwise separable convolutions |
+| 🧮 | **Classifier Head** | Fully connected layers for classification |
+| 📤 | **Output Layer** | Multi-class wafer defect prediction |
+
+---
