@@ -129,6 +129,18 @@ The MobileNetV2-based defect classification model was quantitatively evaluated o
 
 ---
 
+### Confusion Matrix
+
+<img width="400" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/bc0ce7cf-8a59-4727-9f14-17694f6cc79d" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### 🔍 Class-wise Observations
 
 - 🔗 **Bridge:** High recall, minimal false negatives  
