@@ -221,7 +221,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/wafer-defect-classification.git](https://github.com/Ragul-2005/wafer_detect_deeptech_hackathon2026.git)
+git clone https://github.com/Ragul-2005/wafer_detect_deeptech_hackathon2026.git
 cd wafer-defect-classification
 
 # Install required dependencies
