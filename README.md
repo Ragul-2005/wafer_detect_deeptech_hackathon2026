@@ -252,7 +252,6 @@ mobilenet_v2_wafer.pth
 python evaluate.py
 ```
 
-
 ### What it does:
 - 🧪 Loads the held-out test dataset
 - 🔍 Runs inference using trained model
@@ -261,3 +260,37 @@ python evaluate.py
 #### Output:
 Printed evaluation metrics
 
+---
+
+## 3️⃣ Evaluate on Unseen Images
+
+```
+python test_unseen.py
+```
+
+
+### What it does:
+
+- 🧠 Evaluates model on completely unseen SEM images
+- 📉 Measures real-world generalization performance
+
+#### Output:
+Accuracy and class-wise metrics on unseen data
+
+## 4️⃣ Generate Confusion Matrix
+
+```
+python confusion_matrix.py
+```
+
+
+### What it does:
+
+- 📊 Evaluates predictions on test set
+- 🖼️ Generates confusion matrix visualization
+- 💾 Saves result as image file
+
+Output:
+```
+confusion_matrix.png
+```
