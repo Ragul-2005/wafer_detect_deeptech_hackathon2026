@@ -187,9 +187,9 @@ The MobileNetV2-based defect classification model was quantitatively evaluated o
 
 ## ⚡ Edge Deployment Readiness
 
-<div align="center">
-
 ### Why This Model is Edge-Ready
+
+<div align="center">
 
 </div>
 
