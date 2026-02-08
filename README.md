@@ -157,3 +157,60 @@ The MobileNetV2-based defect classification model was quantitatively evaluated o
 - ⚙️ Confirms real-world applicability beyond curated datasets
 
 ---
+
+### 🔍 Key Insights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ✅ Strong Performance
+- **Bridge & Open Defects:** High recall with minimal false negatives  
+- **Via Defects:** Strong structural pattern recognition  
+- **LER & CMP:** Reliable texture-based classification  
+- **Balanced Metrics:** Consistent precision and recall across classes  
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚠️ Observed Challenges
+- **Visually Similar Defects:** Minor confusion between Bridge / Open / Crack  
+- **Dataset Variability:** Performance sensitivity to SEM contrast differences  
+- **Edge Cases:** Complex or mixed-defect regions  
+- **Grayscale Limitations:** Subtle surface variations can be challenging  
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Edge Deployment Readiness
+
+<div align="center">
+
+### Why This Model is Edge-Ready
+
+</div>
+
+| Feature | Benefit | Impact |
+|---------|---------|--------|
+| 🎯 **MobileNetV2** | Lightweight CNN architecture | Low compute requirements |
+| 🖼️ **Grayscale Input** | Single-channel processing | Reduced memory footprint |
+| 📦 **ONNX Format** | Cross-platform compatibility | Portable deployment |
+| ⚡ **Efficient Inference** | Optimized depthwise convolutions | Fast predictions |
+| 🔧 **Transfer Learning** | Fewer parameters to train | Faster adaptation |
+
+<div align="center">
+
+### 🎮 Target Platforms
+
+[![NXP](https://img.shields.io/badge/NXP-eIQ-00A3E0?style=flat-square)](https://www.nxp.com)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Jetson-76B900?style=flat-square)](https://www.nvidia.com/jetson)
+[![RPi](https://img.shields.io/badge/Raspberry-Pi-A22846?style=flat-square)](https://www.raspberrypi.org)
+[![Intel](https://img.shields.io/badge/Intel-OpenVINO-0071C5?style=flat-square)](https://www.intel.com/openvino)
+
+**Note:** This phase focuses on software-level validation. Hardware deployment and real-time benchmarking are planned for future phases.
+
+</div>
+
