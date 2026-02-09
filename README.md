@@ -32,9 +32,10 @@
 The dataset used in this project consists of **grayscale SEM wafer inspection images** covering multiple defect categories. It includes both **real and synthetic samples** and is designed to evaluate model performance under realistic inspection conditions.
 
 ---
-<div align="center">
 
 ### 📦 Dataset Access
+<div align="center">
+
 
 🔗 **Download Dataset (ZIP):**  
 👉 [Google Drive – Wafer Defect Dataset](https://drive.google.com/drive/folders/1JCUn1Xg_lPjh15-lgeGU6WeDd8zZ3oL3?usp=drive_link)
