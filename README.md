@@ -15,6 +15,25 @@
 
 </div>
 
+### 📦 Trained Models
+
+| Model | Format | Download |
+|:-----:|:------:|:--------:|
+| **Edge Deployment** | ONNX | [Download](https://drive.google.com/file/d/1sBK4sehAkyZ3o3CDlgaLWUDJVRI2s8AS/view?usp=drive_link) |
+| **PyTorch Checkpoint** | .pth | [Download](https://drive.google.com/file/d/1t8XXja7Qc71tmUoPg4YIECix4gC34bHF/view?usp=drive_link) |
+
+## 📥 Dataset
+
+The dataset used in this project consists of **grayscale SEM wafer inspection images** covering multiple defect categories. It includes both **real and synthetic samples** and is designed to evaluate model performance under realistic inspection conditions.
+
+---
+
+### 📦 Dataset Access
+
+🔗 **Download Dataset (ZIP):**  
+👉 [Google Drive – Wafer Defect Dataset](https://drive.google.com/drive/folders/1JCUn1Xg_lPjh15-lgeGU6WeDd8zZ3oL3?usp=drive_link)
+
+---
 ## 📌 Overview
 
   <p align="justify">This repository presents an end-to-end Edge-AI pipeline for semiconductor wafer defect classification using SEM images, designed to support automated, low-latency inspection in smart manufacturing environments ⚙️. Semiconductor fabrication generates massive volumes of high-resolution inspection data across multiple process stages, where manual inspection and centralized analysis pipelines often struggle with scalability, latency, and infrastructure overhead 📉.</p>
