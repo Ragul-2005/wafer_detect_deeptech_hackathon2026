@@ -450,9 +450,7 @@ Overall, the results validate the feasibility of applying deep learning for **re
 ---
 ## 🔖 Project Tags
 
-`Edge-AI` · `Semiconductor` · `Wafer Inspection` · `SEM Images` ·  
-`Defect Classification` · `MobileNetV2` · `ONNX` · `Deep Learning` ·  
-`Industry 4.0` · `Computer Vision`
+`Edge-AI` · `Semiconductor` · `Wafer Inspection` · `SEM Images` · `Defect Classification` · `MobileNetV2` · `ONNX` · `Deep Learning` · `Industry 4.0` · `Computer Vision`
 
 ---
 
