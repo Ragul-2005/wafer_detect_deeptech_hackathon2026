@@ -233,7 +233,6 @@ pip install -r requirements.txt
 python train.py
 ```
 
-
 ### What it does:
 - 📥 Loads and preprocesses grayscale SEM images
 - 🧠 Trains MobileNetV2 using transfer learning
@@ -268,7 +267,6 @@ Printed evaluation metrics
 python test_unseen.py
 ```
 
-
 ### What it does:
 
 - 🧠 Evaluates model on completely unseen SEM images
@@ -283,7 +281,6 @@ Accuracy and class-wise metrics on unseen data
 python confusion_matrix.py
 ```
 
-
 ### What it does:
 
 - 📊 Evaluates predictions on test set
@@ -294,9 +291,6 @@ Output:
 ```
 confusion_matrix.png
 ```
-
----
-
 
 ## 5️⃣ Export Model to ONNX
 
@@ -313,4 +307,19 @@ python export_onnx.py
 Output:
 ```
 mobilenet_v2_wafer.onnx
+```
+## 📁 Repository Structure
+
+```text
+📦 wafer-defect-classification
+ ┣ 📖 README.md                       # Project documentation
+ ┣ 📊 confusion_matrix_test.png       # Test set confusion matrix
+ ┣ 📜 train_mobilenet.py              # MobileNetV2 training script
+ ┣ 📜 split.py                        # Dataset train/val/test split utility
+ ┣ 📜 test_unseen.py                  # Evaluation on unseen SEM images
+ ┣ 📜 test_onnx.py                    # ONNX model inference test
+ ┣ 📜 export_onnx.py                  # PyTorch → ONNX export script
+ ┣ 🤖 mobilenet_v2_wafer.pth          # Trained PyTorch model
+ ┣ 📦 mobilenet_v2_wafer.onnx         # Exported ONNX model
+ ┣ 📋 requirements.txt                # Python dependencies
 ```
