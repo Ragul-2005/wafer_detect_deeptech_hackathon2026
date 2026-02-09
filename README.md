@@ -357,7 +357,7 @@ mobilenet_v2_wafer.onnx
 ---
 
 ### 🔹 Development & Experimentation
-- 🧰 **Google Colab / Local Python Environment** — Model training and testing
+- 🧰 **Local Python Environment** — Model training and testing
 - 📋 **requirements.txt** — Dependency management and reproducibility
 
 ---
