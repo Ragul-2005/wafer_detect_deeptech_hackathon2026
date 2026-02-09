@@ -427,12 +427,12 @@ Overall, the results validate the feasibility of applying deep learning for **re
 
 ## 👥 Team Members
 
-| 🔢 Sr. No | 🧩 Role | 👤 Name | 💻 GitHub ID |
-|:--:|:--|:--|:--|:--|
-| 1️⃣ | 🧠 **Team Leader** | **Ragul T** | [@RagulT](https://github.com/Ragul-2005) |
-| 2️⃣ | 👨‍💻 **Member 1** | **Praveen R** | [@PraveenR](https://github.com/PRAVEENRAMU14) |
-| 3️⃣ | 👨‍💻 **Member 2** | **S S Jhotheeshwar**  | [@Jhotheeshwar](https://github.com/S-S-JHOTHEESHWAR) |
-| 4️⃣ | 👩‍💻 **Member 3** | **Merlin Jenifer S** |  [@MerlinJenifer]() |
+| 🔢 Sr. No | 🧩 Role | 👤 Name | 💻 GitHub |
+|:--:|:--|:--|:--|
+| 1️⃣ | 🧠 **Team Leader** | **Ragul T** | [![GitHub](https://img.shields.io/badge/GitHub-Ragul--2005-black?logo=github)](https://github.com/Ragul-2005) |
+| 2️⃣ | 👨‍💻 **Member 1** | **Praveen R** | [![GitHub](https://img.shields.io/badge/GitHub-PRAVEENRAMU14-black?logo=github)](https://github.com/PRAVEENRAMU14) |
+| 3️⃣ | 👨‍💻 **Member 2** | **S S Jhotheeshwar** | [![GitHub](https://img.shields.io/badge/GitHub-S--S--JHOTHEESHWAR-black?logo=github)](https://github.com/S-S-JHOTHEESHWAR) |
+| 4️⃣ | 👩‍💻 **Member 3** | **Merlin Jenifer S** | [![GitHub](https://img.shields.io/badge/GitHub-MerlinJenifer-black?logo=github)](https://github.com/MerlinJenifer) |
 
 📌 *Developed as part of the **i4C DeepTech Hackathon – Phase 1***
 
