@@ -323,3 +323,45 @@ mobilenet_v2_wafer.onnx
  ┣ 📦 mobilenet_v2_wafer.onnx         # Exported ONNX model
  ┣ 📋 requirements.txt                # Python dependencies
 ```
+
+## 🛠️ Technology Stack
+
+### 🔹 Programming Language
+- 🐍 **Python** — Core language for model development, training, and evaluation
+
+---
+
+### 🔹 Deep Learning Framework
+- 🔥 **PyTorch** — Model training, transfer learning, and checkpoint management
+- 🧠 **Torchvision** — Pre-trained MobileNetV2 and image transformations
+
+---
+
+### 🔹 Model Interoperability & Edge Runtime
+- 📦 **ONNX** — Portable model format for edge deployment
+- ⚡ **ONNX Runtime** — Fast, hardware-agnostic inference engine
+
+---
+
+### 🔹 Image Processing & Data Handling
+- 🖼️ **OpenCV** — Image loading, resizing, and preprocessing
+- 🧪 **Pillow (PIL)** — Image format handling
+- 📐 **NumPy** — Numerical operations and tensor preparation
+
+---
+
+### 🔹 Evaluation & Analysis
+- 📊 **scikit-learn** — Accuracy, precision, recall, F1-score, confusion matrix
+- 📈 **Matplotlib** — Visualization of results and metrics
+
+---
+
+### 🔹 Development & Experimentation
+- 🧰 **Google Colab / Local Python Environment** — Model training and testing
+- 📋 **requirements.txt** — Dependency management and reproducibility
+
+---
+
+### ⚡ Edge-AI Readiness
+- 🖥️ **CPU-based Inference** — Optimized for low-power edge devices
+- 🔧 **NXP eIQ Compatible Workflow** — Ready for embedded AI deployment
