@@ -15,6 +15,8 @@
 
 </div>
 
+---
+<div align="center">
 ### 📦 Trained Models
 
 | Model | Format | Download |
@@ -22,11 +24,14 @@
 | **Edge Deployment** | ONNX | [Download](https://drive.google.com/file/d/1sBK4sehAkyZ3o3CDlgaLWUDJVRI2s8AS/view?usp=drive_link) |
 | **PyTorch Checkpoint** | .pth | [Download](https://drive.google.com/file/d/1t8XXja7Qc71tmUoPg4YIECix4gC34bHF/view?usp=drive_link) |
 
+---
+
 ## 📥 Dataset
 
 The dataset used in this project consists of **grayscale SEM wafer inspection images** covering multiple defect categories. It includes both **real and synthetic samples** and is designed to evaluate model performance under realistic inspection conditions.
 
 ---
+</div>
 
 ### 📦 Dataset Access
 
