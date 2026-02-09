@@ -425,6 +425,53 @@ Overall, the results validate the feasibility of applying deep learning for **re
 
 ---
 
+## 👥 Team Members
+
+| 🔢 Sr. No | 🧩 Role | 👤 Name | 💻 GitHub ID |
+|:--:|:--|:--|:--|:--|
+| 1️⃣ | 🧠 **Team Leader** | **Ragul T** | [@RagulT](https://github.com/Ragul-2005) |
+| 2️⃣ | 👨‍💻 **Member 1** | **Praveen R** | [@PraveenR](https://github.com/PRAVEENRAMU14) |
+| 3️⃣ | 👨‍💻 **Member 2** | **S S Jhotheeshwar**  | [@Jhotheeshwar](https://github.com/S-S-JHOTHEESHWAR) |
+| 4️⃣ | 👩‍💻 **Member 3** | **Merlin Jenifer S** |  [@MerlinJenifer]() |
+
+📌 *Developed as part of the **i4C DeepTech Hackathon – Phase 1***
+
+---
+
+  ## 🏷️ Project Labels
+
+![Domain](https://img.shields.io/badge/Domain-Semiconductor%20AI-blue)
+![Category](https://img.shields.io/badge/Category-Edge--AI-green)
+![Task](https://img.shields.io/badge/Task-Defect%20Classification-orange)
+![Data](https://img.shields.io/badge/Data-SEM%20Images-purple)
+![Model](https://img.shields.io/badge/Model-MobileNetV2-red)
+![Deployment](https://img.shields.io/badge/Deployment-ONNX-lightgrey)
+
+---
+## 🔖 Project Tags
+
+`Edge-AI` · `Semiconductor` · `Wafer Inspection` · `SEM Images` ·  
+`Defect Classification` · `MobileNetV2` · `ONNX` · `Deep Learning` ·  
+`Industry 4.0` · `Computer Vision`
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and improvements are welcome.  
+If you find an issue or have an enhancement idea, feel free to open an issue or submit a pull request.
+
+---
+
+<div align="center">
+
+**🔬 Edge-AI Semiconductor Wafer Defect Classification**
+
+Built with ❤️ for the **i4C DeepTech Hackathon – Phase 1**
+
+⭐ *Star the repo to support the project!* ⭐
+
+</div>
 
 
   
