@@ -433,7 +433,7 @@ Overall, the results validate the feasibility of applying deep learning for **re
 | 1️⃣ | 🧠 **Team Leader** | **Ragul T** | [![GitHub](https://img.shields.io/badge/GitHub-Ragul--2005-black?logo=github)](https://github.com/Ragul-2005) |
 | 2️⃣ | 👨‍💻 **Member 1** | **Praveen R** | [![GitHub](https://img.shields.io/badge/GitHub-PRAVEENRAMU14-black?logo=github)](https://github.com/PRAVEENRAMU14) |
 | 3️⃣ | 👨‍💻 **Member 2** | **S S Jhotheeshwar** | [![GitHub](https://img.shields.io/badge/GitHub-S--S--JHOTHEESHWAR-black?logo=github)](https://github.com/S-S-JHOTHEESHWAR) |
-| 4️⃣ | 👩‍💻 **Member 3** | **Merlin Jenifer S** | [![GitHub](https://img.shields.io/badge/GitHub-MerlinJenifer-black?logo=github)](https://github.com/MerlinJenifer) |
+| 4️⃣ | 👩‍💻 **Member 3** | **Merlin Jenifer S** | [![GitHub](https://img.shields.io/badge/GitHub-MerlinJenifer-black?logo=github)](https://github.com/merlin-jennifer) |
 
 📌 *Developed as part of the **i4C DeepTech Hackathon – Phase 1***
 
