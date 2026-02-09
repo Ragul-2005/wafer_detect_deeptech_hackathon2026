@@ -392,3 +392,39 @@ mobilenet_v2_wafer.onnx
 ### ⚡ Edge-AI Readiness
 - 🖥️ **CPU-based Inference** — Optimized for low-power edge devices
 - 🔧 **NXP eIQ Compatible Workflow** — Ready for embedded AI deployment
+
+  ---
+
+## 🏁 Conclusion
+
+This project demonstrates the effectiveness of a **lightweight Edge-AI pipeline** for semiconductor wafer defect classification using grayscale SEM images. By leveraging **MobileNetV2** and transfer learning, the system achieves high classification accuracy while maintaining a compact model footprint suitable for deployment on resource-constrained edge devices.
+
+The model was evaluated not only on standard validation and test datasets but also on **completely unseen images**, confirming its robustness and generalization capability. Exporting the trained network to **ONNX format** ensures portability across different hardware platforms and enables seamless integration into edge-based inspection workflows.
+
+Overall, the results validate the feasibility of applying deep learning for **real-time, scalable wafer inspection**, reducing dependency on manual review and centralized analysis. This work establishes a strong foundation for future edge deployment in smart semiconductor manufacturing environments.
+
+---
+
+## 🔮 Future Work
+
+- ⚡ Hardware deployment and benchmarking on embedded edge platforms  
+- 📉 Model quantization and further size optimization  
+- 🧪 Expansion of defect classes and dataset diversity  
+- 🤖 Integration with real-time inspection pipelines  
+- 📊 Continuous learning with new defect samples  
+
+---
+
+## 📚 References
+
+1. **Deep Learning for Wafer Defect Inspection** – Survey of CNN-based methods for semiconductor defect analysis  
+2. **Public SEM Wafer Defect Datasets** – Open-source repositories for wafer inspection imagery  
+3. **PyTorch Documentation** – Model training and transfer learning workflows  
+4. **ONNX & ONNX Runtime Documentation** – Cross-platform model interoperability and inference  
+5. **NXP eIQ Edge AI Toolkit** – Edge-AI deployment and optimization guidelines  
+
+---
+
+
+
+  
